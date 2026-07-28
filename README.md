@@ -21,28 +21,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## SaaS/Hosted Platforms
 
 ### Core Platforms (All-in-One SEO Suites)
-- **[Semrush](https://www.semrush.com/)**  
-  Comprehensive SEO, content, competitive research, and PPC platform with extensive keyword and backlink databases.
-- **[Ahrefs](https://ahrefs.com/)**  
-  Industry-leading backlink analysis, keyword research, site audits, and rank tracking tools.
-- **[Moz Pro](https://moz.com/products/pro)**  
-  SEO software focused on keyword research, link building, site audits, and ranking insights.
-- **[SE Ranking](https://seranking.com/)**  
-  Budget-friendly all-in-one platform for rank tracking, site audits, competitor analysis, and white-label reports.
-- **[Mangools](https://mangools.com/)**  
-  User-friendly suite (KWFinder, SERPChecker, LinkMiner, etc.) optimized for keyword research and competitive analysis.
-- **[Serpstat](https://serpstat.com/)**  
-  Affordable SEO and PPC research platform covering keywords, competitors, backlinks, and site audits.
-- **[Ubersuggest](https://neilpatel.com/ubersuggest/)**  
-  Accessible keyword research, content ideas, site audits, and competitor tools with a free tier.
-- **[Conductor](https://www.conductor.com/)**  
-  Enterprise content and SEO platform focused on organic visibility, content optimization, and performance intelligence.
+
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[Semrush](https://www.semrush.com/)** | Comprehensive SEO, content, competitive research, and PPC platform with extensive keyword and backlink databases. | Starts at ~$129.95/mo | 10 requests/day |
+| **[Ahrefs](https://ahrefs.com/)** | Industry-leading backlink analysis, keyword research, site audits, and rank tracking tools. | Starts at ~$129/mo | Free Webmaster Tools (owned sites only) |
+| **[Moz Pro](https://moz.com/products/pro)** | SEO software focused on keyword research, link building, site audits, and ranking insights. | Starts at ~$99/mo | 10 queries/mo (Keyword Explorer) |
+| **[SE Ranking](https://seranking.com/)** | Budget-friendly all-in-one platform for rank tracking, site audits, competitor analysis, and white-label reports. | Starts at ~$55/mo | None (14-day trial) |
+| **[Mangools](https://mangools.com/)** | User-friendly suite (KWFinder, SERPChecker, LinkMiner, etc.) optimized for keyword research and competitive analysis. | Starts at ~$29/mo | 5 lookups/day |
+| **[Serpstat](https://serpstat.com/)** | Affordable SEO and PPC research platform covering keywords, competitors, backlinks, and site audits. | Starts at ~$59/mo | 10 searches/day |
+| **[Ubersuggest](https://neilpatel.com/ubersuggest/)** | Accessible keyword research, content ideas, site audits, and competitor tools with a free tier. | Starts at ~$29/mo | 3 daily searches |
+| **[Conductor](https://www.conductor.com/)** | Enterprise content and SEO platform focused on organic visibility, content optimization, and performance intelligence. | Custom Pricing | None |
 
 ### Technical Crawlers & Audit Tools
-- **[Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)**  
-  Industry-standard desktop website crawler for deep technical SEO audits (free up to 500 URLs).
-- **[Sitebulb](https://sitebulb.com/)**  
-  Visual technical SEO crawler with prioritized hints, crawl maps, and stakeholder-friendly reports (desktop + cloud).
+
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/)** | Industry-standard desktop website crawler for deep technical SEO audits. | £149/year | 500 URLs per crawl |
+| **[Sitebulb](https://sitebulb.com/)** | Visual technical SEO crawler with prioritized hints, crawl maps, and stakeholder-friendly reports. | Starts at ~$13.50/mo | None (14-day trial) |
 
 ## Open-Source GitHub Projects
 
